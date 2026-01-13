@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T15:31:11.780894+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2026-01-13T15:47:53.456348+08:00",
+  "total_titles_processed": 1338,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时33分 ~ 07时21分]"
+        },
+        {
+          "title": "特朗普：对伊朗的贸易伙伴征收25%关税",
+          "url": "https://news.ifeng.com/c/8prxSzII5sJ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时21分 ~ 15时47分]"
         },
         {
           "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
@@ -43,18 +55,6 @@
           "time_info": "[00时33分 ~ 07时21分]"
         },
         {
-          "title": "特朗普：对伊朗的贸易伙伴征收25%关税",
-          "url": "https://news.ifeng.com/c/8prxSzII5sJ",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时21分 ~ 15时31分]"
-        },
-        {
           "title": "伊朗局势突然反转，特朗普又心生一计",
           "url": "https://news.ifeng.com/c/8psBaLzCORr",
           "source": "凤凰网",
@@ -62,8 +62,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时01分 ~ 15时31分]"
+          "appearance_count": 9,
+          "time_info": "[10时01分 ~ 15时47分]"
         },
         {
           "title": "特朗普：最高法若作出对美不利裁决，我们就完蛋了",
@@ -73,8 +73,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时45分 ~ 15时31分]"
+          "appearance_count": 8,
+          "time_info": "[11时45分 ~ 15时47分]"
         },
         {
           "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
@@ -86,8 +86,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 15时31分]"
+          "appearance_count": 19,
+          "time_info": "[00时33分 ~ 15时47分]"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
@@ -125,8 +125,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时01分 ~ 15时31分]"
+          "appearance_count": 9,
+          "time_info": "[10时01分 ~ 15时47分]"
         },
         {
           "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
@@ -140,8 +140,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时01分 ~ 15时31分]"
+          "appearance_count": 9,
+          "time_info": "[10时01分 ~ 15时47分]"
         },
         {
           "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
@@ -153,8 +153,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时01分 ~ 15时31分]"
+          "appearance_count": 9,
+          "time_info": "[10时01分 ~ 15时47分]"
         },
         {
           "title": "特朗普称接管格陵兰岛是为防中俄觊觎，外交部：谋私利别拿他国当借口",
@@ -167,8 +167,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时01分 ~ 15时31分]"
+          "appearance_count": 9,
+          "time_info": "[10时01分 ~ 15时47分]"
         },
         {
           "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
@@ -178,8 +178,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时45分 ~ 15时31分]"
+          "appearance_count": 8,
+          "time_info": "[11时45分 ~ 15时47分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税",
@@ -189,11 +189,12 @@
             12,
             13,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时45分 ~ 15时31分]"
+          "appearance_count": 8,
+          "time_info": "[11时45分 ~ 15时47分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税",
@@ -205,8 +206,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时45分 ~ 15时31分]"
+          "appearance_count": 8,
+          "time_info": "[11时45分 ~ 15时47分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普对委内瑞拉反对派Machado的评估“是现实的”。",
@@ -880,8 +881,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时01分 ~ 15时31分]"
+          "appearance_count": 9,
+          "time_info": "[10时01分 ~ 15时47分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -905,30 +906,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时01分 ~ 15时31分]"
+          "appearance_count": 9,
+          "time_info": "[10时01分 ~ 15时47分]"
         },
         {
           "title": "苹果联姻谷歌意味着什么",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E8%81%94%E5%A7%BB%E8%B0%B7%E6%AD%8C%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时31分]"
-        },
-        {
-          "title": "苹果接入Gemini模型想做啥",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%8E%A5%E5%85%A5Gemini%E6%A8%A1%E5%9E%8B%E6%83%B3%E5%81%9A%E5%95%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时31分]"
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 15时47分]"
         },
         {
           "title": "美联储调查风波之际，美股走V创新高，谷歌市值破4万亿，中概股大涨，金银大涨创新高",
@@ -963,6 +954,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时01分 ~ 14时41分]"
+        },
+        {
+          "title": "苹果接入Gemini模型想做啥",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%8E%A5%E5%85%A5Gemini%E6%A8%A1%E5%9E%8B%E6%83%B3%E5%81%9A%E5%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 15时47分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌涨1%，收盘市值达到4万亿美元，Meta跌1.7%",
@@ -1229,11 +1232,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时41分 ~ 15时31分]"
+          "appearance_count": 4,
+          "time_info": "[14时41分 ~ 15时47分]"
         },
         {
           "title": "据The Information：OpenAI同意以约1亿美元收购AI医疗应用Torch。",
