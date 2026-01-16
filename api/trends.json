@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-16T15:25:12.526270+08:00",
-  "total_titles_processed": 1342,
+  "generated_at": "2026-01-16T16:31:29.701369+08:00",
+  "total_titles_processed": 1451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 83,
+      "match_count": 84,
       "titles": [
+        {
+          "title": "特朗普暂缓对伊朗动武决定",
+          "url": "https://news.ifeng.com/c/8pwnQlJCjgv",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时39分 ~ 16时31分]"
+        },
         {
           "title": "欧洲多国向格陵兰岛派遣军事人员，白宫：影响不了特朗普",
           "url": "https://news.ifeng.com/c/8pwzGme7VVB",
@@ -16,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时42分 ~ 15时25分]"
+          "appearance_count": 12,
+          "time_info": "[09时42分 ~ 16时31分]"
         },
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -38,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时42分 ~ 15时25分]"
+          "appearance_count": 12,
+          "time_info": "[09时42分 ~ 16时31分]"
         },
         {
           "title": "特朗普：我会去委内瑞拉，委代总统将访美",
@@ -53,16 +65,17 @@
           "time_info": "[00时35分 ~ 07时21分]"
         },
         {
-          "title": "特朗普暂缓对伊朗动武决定",
-          "url": "https://news.ifeng.com/c/8pwnQlJCjgv",
-          "source": "凤凰网",
+          "title": "梦想成真!特朗普喜提二手诺奖",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349232&amp;topic_name=%E6%A2%A6%E6%83%B3%E6%88%90%E7%9C%9F%21%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9C%E6%8F%90%E4%BA%8C%E6%89%8B%E8%AF%BA%E5%A5%96",
+          "source": "贴吧",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时39分 ~ 15时25分]"
+          "appearance_count": 6,
+          "time_info": "[14时33分 ~ 16时31分]"
         },
         {
           "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
@@ -73,20 +86,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时42分 ~ 15时25分]"
+          "appearance_count": 12,
+          "time_info": "[09时42分 ~ 16时31分]"
         },
         {
-          "title": "梦想成真!特朗普喜提二手诺奖",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349232&amp;topic_name=%E6%A2%A6%E6%83%B3%E6%88%90%E7%9C%9F%21%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9C%E6%8F%90%E4%BA%8C%E6%89%8B%E8%AF%BA%E5%A5%96",
-          "source": "贴吧",
+          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
+          "url": "https://wallstreetcn.com/articles/3763411",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            2
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时33分 ~ 15时25分]"
+          "appearance_count": 6,
+          "time_info": "[11时39分 ~ 16时31分]"
         },
         {
           "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
@@ -305,17 +318,6 @@
           "time_info": "[06时22分 ~ 07时21分]"
         },
         {
-          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
-          "url": "https://wallstreetcn.com/articles/3763411",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时39分 ~ 13时25分]"
-        },
-        {
           "title": "特朗普暂缓对伊朗动武决定",
           "url": "https://www.douyin.com/hot/2369152",
           "source": "抖音",
@@ -444,6 +446,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时40分 ~ 12时40分]"
+        },
+        {
+          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
+          "url": "https://www.zhihu.com/question/1995430633518944539",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时30分 ~ 16时31分]"
         },
         {
           "title": "诺奖不得转赠但特朗普拿来吧你",
@@ -962,11 +975,12 @@
           "url": "https://wallstreetcn.com/articles/3763348",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时42分 ~ 15时25分]"
+          "appearance_count": 12,
+          "time_info": "[09时42分 ~ 16时31分]"
         },
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -1005,6 +1019,20 @@
           "time_info": "[07时21分 ~ 13时25分]"
         },
         {
+          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
+          "url": "https://www.cls.cn/detail/2259861",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时40分 ~ 16时31分]"
+        },
+        {
           "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2259424",
           "source": "财联社热门",
@@ -1016,20 +1044,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时24分 ~ 09时43分]"
-        },
-        {
-          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
-          "url": "https://www.cls.cn/detail/2259861",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时40分 ~ 15时25分]"
         },
         {
           "title": "芯片股撑美股反弹，半导体指数新高，台积电涨超4%，美元站上99关口，金银微跌",
@@ -1188,8 +1202,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时40分 ~ 15时25分]"
+          "appearance_count": 8,
+          "time_info": "[12时40分 ~ 16时31分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
