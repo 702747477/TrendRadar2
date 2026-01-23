@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T12:43:08.408708+08:00",
-  "total_titles_processed": 1163,
+  "generated_at": "2026-01-23T13:28:03.108621+08:00",
+  "total_titles_processed": 1233,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 12时43分]"
+          "appearance_count": 17,
+          "time_info": "[00时36分 ~ 13时28分]"
         },
         {
           "title": "不动武了、也不加税了！特朗普达沃斯上演“格陵兰TACO”",
@@ -42,8 +42,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 12时43分]"
+          "appearance_count": 17,
+          "time_info": "[00时36分 ~ 13时28分]"
+        },
+        {
+          "title": "特朗普称加拿大因美国而存在，加总理回应",
+          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 13时28分]"
         },
         {
           "title": "特朗普达沃斯演讲，被群嘲了",
@@ -53,8 +64,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 12时43分]"
+          "appearance_count": 17,
+          "time_info": "[00时36分 ~ 13时28分]"
         },
         {
           "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
@@ -65,8 +76,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 12时43分]"
+          "appearance_count": 17,
+          "time_info": "[00时36分 ~ 13时28分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -88,8 +99,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 12时43分]"
+          "appearance_count": 17,
+          "time_info": "[00时36分 ~ 13时28分]"
         },
         {
           "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
@@ -137,15 +148,26 @@
           "time_info": "[00时36分 ~ 09时42分]"
         },
         {
-          "title": "特朗普称加拿大因美国而存在，加总理回应",
-          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
+          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
+          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
           "source": "凤凰网",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时42分 ~ 12时43分]"
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 13时28分]"
+        },
+        {
+          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
+          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 13时28分]"
         },
         {
           "title": "释新闻｜特朗普“和平委员会”即将举行签约仪式，哪些国家已经拒绝？",
@@ -191,17 +213,6 @@
           "time_info": "[00时36分 ~ 07时21分]"
         },
         {
-          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
-          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 12时43分]"
-        },
-        {
           "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
           "url": "https://wallstreetcn.com/articles/3763851",
           "source": "华尔街见闻",
@@ -211,17 +222,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时36分 ~ 01时29分]"
-        },
-        {
-          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
-          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 12时43分]"
         },
         {
           "title": "特朗普提出动用北约保护美国南部边境",
@@ -255,6 +255,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
+          "url": "https://www.cls.cn/detail/2267060",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 13时28分]"
         },
         {
           "title": "特朗普提出动用北约保护美国南部边境",
@@ -375,17 +389,15 @@
           "time_info": "[03时25分 ~ 04时28分]"
         },
         {
-          "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
-          "url": "https://www.cls.cn/detail/2267060",
+          "title": "特朗普起诉摩根大通及其CEO戴蒙 索赔至少50亿美元",
+          "url": "https://www.cls.cn/detail/2267102",
           "source": "财联社热门",
           "ranks": [
-            12,
-            11,
-            9
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时42分 ~ 12时43分]"
+          "time_info": "[12时42分 ~ 13时28分]"
         },
         {
           "title": "特朗普吐槽北约盟友“不孝顺”",
@@ -481,17 +493,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时32分 ~ 03时25分]"
-        },
-        {
-          "title": "特朗普起诉摩根大通及其CEO戴蒙 索赔至少50亿美元",
-          "url": "https://www.cls.cn/detail/2267102",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 12时43分]"
         },
         {
           "title": "特朗普启程返回华盛顿",
@@ -1138,6 +1139,19 @@
           "time_info": "[00时36分 ~ 06时23分]"
         },
         {
+          "title": "美股收盘：地缘扰动退潮 三大指数集体收涨 阿里涨5%",
+          "url": "https://www.cls.cn/detail/2267129",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时21分 ~ 13时28分]"
+        },
+        {
           "title": "特朗普TACO助推全球股市反弹，美股指集体高开，纳指涨0.9%，美债承压",
           "url": "https://wallstreetcn.com/articles/3763892",
           "source": "华尔街见闻",
@@ -1149,19 +1163,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时36分 ~ 06时23分]"
-        },
-        {
-          "title": "美股收盘：地缘扰动退潮 三大指数集体收涨 阿里涨5%",
-          "url": "https://www.cls.cn/detail/2267129",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时21分 ~ 12时43分]"
         },
         {
           "title": "存储“涨飞”！“美股最强”闪迪涨超10%，美光、西部数据、希捷科技等全线大涨",
